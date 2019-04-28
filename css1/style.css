@@ -8,7 +8,7 @@
 .cupcake{
 	padding: 40px;
 	grid-columns:1fr;
-	background-image: url(41.jpg);
+	background-image: url(../images/41.jpg);
 	background-repeat:no repeat;
 	background-position:right;
 	background-size:cover;
@@ -61,7 +61,7 @@ li{
 	color:white;
 	text-align:center;
 	margin-bottom:40px;
-	background-image: 39.jpg;
+	background-image: url(../images/39.jpg);
 	background-repeat:no repeat;
 	background-position:center;
 	background-size:cover;
